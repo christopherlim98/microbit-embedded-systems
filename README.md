@@ -32,5 +32,5 @@ Based on trial and error, we saw that an absolute difference of  approximately 2
 
 ## Credit
 
-This was done in a team of four. Our members were: Sheffield, Hui Ning, Justina and Christopher (myself)
+This was done in a team of four. Our members were: Sheffield, Hui Ning, Justina and Christopher (me).
 
