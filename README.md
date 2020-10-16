@@ -30,3 +30,7 @@ The strength of radio signal is, from -128dBm to -42dBm. (-128 means a weak sign
 
 Based on trial and error, we saw that an absolute difference of  approximately 2dBm occurs when there is someone moving in between, due to interference.
 
+## Credit
+
+This was done in a team of four. Our members were: Sheffield, Hui Ning, Justina and Christopher (myself)
+
